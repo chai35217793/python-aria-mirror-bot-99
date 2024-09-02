@@ -1,4 +1,3 @@
-flask
 requests
 psutil
 python-telegram-bot==12.6.1 
